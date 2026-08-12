@@ -9,8 +9,6 @@
   KRB_CRED base64  →  .kirbi  +  .ccache
 ```
 
-**Autor:** André Torres (https://github.com/andretorresbr/ticketconvert)
-
 ---
 
 ## Uso
