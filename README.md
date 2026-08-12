@@ -54,3 +54,26 @@ deactivate
 ```
 
 O executável gerado estará em `dist\ticket_convert.exe`.
+
+
+## Uso do script em Python (Windows ou Linux)
+
+- Baixar o repositório e criar um ambiente virtual (venv)
+
+```
+cd ticketconvert
+pip install virtualenv
+virtualenv.exe myenv
+.\myenv\Scripts\activate
+pip install -r requirements.txt
+```
+
+- Executar o script
+
+```
+python.exe .\ticket_convert.py
+```
+ou
+```
+python ticket_convert.py
+```
