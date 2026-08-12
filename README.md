@@ -55,6 +55,13 @@ deactivate
 
 O executável gerado estará em `dist\ticket_convert.exe`.
 
+## Uso do script em .exe (Windows)
+
+- Uma vez compilado para .exe:
+```
+ticket_convert.exe "doIFm..." felipe.brasil
+```
+
 
 ## Uso do script em Python (Windows ou Linux)
 
